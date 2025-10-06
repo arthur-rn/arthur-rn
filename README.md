@@ -6,8 +6,6 @@
 - 📍 Residente em Campos dos Goytacazes - RJ  
 - 🎓 Bacharelado em **Sistemas de Informação** – IFF Campos Centro (2024–2028)  
 - 🎓 Técnico em **Informática** – IFF Campos Centro (2020–2023)  
-- 🔧 Experiência em manutenção de computadores, atendimento de chamados e controle de ativos  
-
 
 ## 📊 Estatísticas do Github
 
